@@ -1,0 +1,57 @@
+.logo img {
+    width: 150px;
+    height: 150px;
+}
+.logo{
+    display: flex; justify-content: center;align-items: center;
+}
+ul{
+    display: flex; justify-content: center;align-items: center;
+
+    
+}
+li{
+    margin-right: 30px;
+    list-style: none;
+}
+footer{
+    width: 100%;
+    height: 80px;
+    background-color: black;
+    display: flex; justify-content: center;align-items: center;
+}
+.abajo{
+    color: aqua;
+
+}
+section{
+    display: flex; justify-content: center;align-items: center;
+    width: 100%;
+
+}
+section .formulario{
+
+    
+    width: 50%;
+
+}
+
+section .mapa{
+    
+    width: 50%;
+}
+.contenedor1{
+    width: 100%;
+    height: 300px;
+    background-color: black;
+}
+.contenedor2{
+    width: 100%;
+    height: 300px;
+    background-color: rgb(237, 166, 13);
+}
+.contenedor3{
+    width: 100%;
+    height: 300px;
+    background-color: rgb(151, 129, 129);
+}
